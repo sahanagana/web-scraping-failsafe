@@ -4,6 +4,6 @@ Created a simpler version of the other webscaping repo so that if that I don't g
 ## research
 
 ## works cited
-https://www.youtube.com/watch?v=q397v79AeDs
-https://requestswebsite.notanothercoder.repl.co/
-https://github.com/LouisTheXIV/Website-Bruteforcer/blob/master/bruteforcer.py
+https://www.youtube.com/watch?v=q397v79AeDs  
+https://requestswebsite.notanothercoder.repl.co/  
+https://github.com/LouisTheXIV/Website-Bruteforcer/blob/master/bruteforcer.py  
