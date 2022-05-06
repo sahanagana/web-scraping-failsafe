@@ -1,7 +1,7 @@
 import requests
 
 #GET THE LINK
-url = "https://requestswebsite.notanothercoder.repl.co/confirm-login"
+url = "https://requestswebsite.notanothercoder.repl.co/"
 
 #FUNCITON FOR SENIG REQUIREST
 def send_request(username, password):
